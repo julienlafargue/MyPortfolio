@@ -1,58 +1,65 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "C",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/c.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "C++",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/c+++.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Python",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Flutter",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/flutter.jpg",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "React",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Git",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/git.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Gatsby",
       "image": {
         "src": "../../images/gatsby.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Javascript",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Shell Scripting",
+      "image": {
+        "src": "../../images/bash.png",
         "alt": ""
       }
     }

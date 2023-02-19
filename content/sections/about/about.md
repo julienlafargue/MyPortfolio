@@ -3,12 +3,12 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I am a third-year student at Epitech Nantes, specializing in IT development. During my first two years in school, I developed strong programming, algorithmic and software design skills.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I am passionate about new technologies and innovations, and I love facing complex challenges that allow me to use my skills creatively. I am also very curious and constantly looking for new ideas to improve my programming skills.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+As a computer development student, I have worked on many projects, from mobile applications to video games to websites. I have gained practical experience in creating IT solutions, from design to implementation and maintenance.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+I also developed good communication and teamwork skills working on group projects. I have learned to collaborate effectively with other developers, designers and project managers to deliver projects effectively and efficiently.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I am very motivated to continue learning and developing my IT development skills, and I look forward to seeing what the future holds for me in this exciting and ever-changing field.
