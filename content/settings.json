@@ -1,0 +1,39 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "",
+    "title": "Julien Lafargue Portfolio",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "",
+    "author": "Julien Lafargue",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "",
+    "social": {
+      "github": "https://github.com/julienlafargue",
+      "linkedin": "https://www.linkedin.com/in/julien-lafargue-400047197/",
+      "mail": "julien.lafargue@epitech.eu"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Portfolio" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Github", "url": "/#contact" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "CV",
+        "url": "/CV_Julien_Lafargue_EN.pdf"
+      },
+      "footer": [
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

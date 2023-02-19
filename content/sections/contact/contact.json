@@ -1,0 +1,13 @@
+{
+  "name": "Contact",
+  "email": "julien.lafargue@epitech.com",
+  "description": "You can find here all information to contact me",
+  "image": {
+    "src": "../../images/contact.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

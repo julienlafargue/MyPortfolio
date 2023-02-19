@@ -1,0 +1,72 @@
+{
+  "interests": [
+    {
+      "label": "C",
+      "image": {
+        "src": "../../images/c.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "C++",
+      "image": {
+        "src": "../../images/c+++.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Python",
+      "image": {
+        "src": "../../images/python.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Flutter",
+      "image": {
+        "src": "../../images/flutter.jpg",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/git.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Gatsby",
+      "image": {
+        "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Javascript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Shell Scripting",
+      "image": {
+        "src": "../../images/bash.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}
