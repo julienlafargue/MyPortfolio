@@ -7,6 +7,11 @@
    ```sh
    npm install -g gatsby-cli
    ```
+2. Add gatsby to the project
+
+   ```sh
+   yarn add gatsby
+   ```
 
 2. Once installed
 
