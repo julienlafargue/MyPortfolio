@@ -23,7 +23,7 @@
    
 ## The project
 
-This project is a simple portfolio realized in reactjs whith gatsby genrerator.
+This project is a simple portfolio realized in reactjs whith gatsby generator.
 
 ## Pictures
 
